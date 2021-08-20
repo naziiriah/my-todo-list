@@ -31,4 +31,3 @@ function weChat(string){
     console.log(newArray)
 }
 
-weChat('axiuhdjnkwjbewopijqywejbfaohwuyedbiaorip')
